@@ -1,0 +1,14 @@
+# OS files
+._*
+.DS_Store
+
+# compiled folder
+build/
+
+# node yarn logs files
+node_modules
+.npm
+package-lock.json
+yarn.lock
+
+
