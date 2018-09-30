@@ -6,7 +6,7 @@
 build/
 
 # covarage tests
-coverage
+coverage/
 
 # node yarn logs files
 node_modules
