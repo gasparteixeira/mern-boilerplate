@@ -96,6 +96,9 @@ module.exports = {
         new InterpolateHtmlPlugin({
             PUBLIC_URL: "/public"
         }),
-    ]
+    ],
+    devServer: {
+        historyApiFallback: true,
+    }
 
 };
