@@ -5,6 +5,9 @@
 # compiled folder
 build/
 
+# covarage tests
+covarage/
+
 # node yarn logs files
 node_modules
 .npm
